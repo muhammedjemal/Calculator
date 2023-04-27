@@ -1,0 +1,115 @@
+body{
+    background: #00355a;
+}
+table{
+    margin: 50px;
+    font-size: 50px;
+    padding: 50px;
+    border-spacing: 20px;
+    cursor: pointer;
+}
+h1{
+    margin: 0px;
+}
+#key1:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#key2:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#key3:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#key4:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#key5:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#key6:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#key7:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#key8:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#key9:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}
+#keyDot:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#keyMinus:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#keyDivide:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#keyPlus:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#keyPercentage:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#keyEqual:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#keyZero:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}#keyMultiply:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+}
+#keyClear:hover{
+    background-color: rgb(30, 143, 248);
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+
+}
+.pressed {
+    box-shadow: 0 0 20px rgb(153, 220, 245);
+    background-color: rgb(120, 159, 238);
+  }
+button{
+    position: relative;
+    left: 70px;
+    bottom: 790px;
+    width: 100px;
+    height: 30px;
+}
+#btn1{
+    background-color: red;
+}
+#btn1:hover{
+    background-color: rgb(55, 255, 0);
+}
+#btn2{
+    background-color: red;
+}
+#btn2:hover{
+    background-color: rgb(55, 255, 0);
+}
+#btn3{
+    background-color: red;
+}
+#btn3:hover{
+    background-color: rgb(55, 255, 0);
+}
+#btn4{
+    background-color: red;
+}
+#btn4:hover{
+    background-color: rgb(55, 255, 0);
+}
+.light{
+    background-color: rgb(255, 255, 255);
+}
+.night{
+    background: #000000;
+}
+#btnSettings:hover .btnApps{
+display: block;
+}
